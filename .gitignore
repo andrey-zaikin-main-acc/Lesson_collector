@@ -1,0 +1,27 @@
+# Исходные сохранения курсов и архивы ресурсов
+*_files/
+*_files.zip
+
+# Результаты конвертации и локальные отчёты проверки
+converted/
+example_output/
+*_autonomous.html
+*_report.json
+browser_validation.json
+screenshots/
+
+# Python и локальные окружения
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Временные файлы редакторов и ОС
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
